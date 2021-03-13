@@ -71,12 +71,13 @@ At the end it's your call but I'm 99% certain that it wont get you banned.
 ## Available macros
 
 * **SnackMenu** – Opens the snack menu
-* **AutoHealth** – Consumes 2 snacks (from position 2) and closes menu
+* **AutoHealth** – Consumes 4 snacks (from position 2) and closes menu
 * **ArmorMenu** – Opens the armor menu
 * **AutoArmor** – Consumes one super heavy armor and closes menu
 * **RetrieveCar** – Retrieve your current active personal vehicle
 * **TogglePassive** – Toggle passive mode
 * **EquipScarf** – Equip scarf (heist outfit speed, see miscellaneous)
+* **EWOKey** - yeah
 * **CycleOutfit** – Cycle through your saved outfits
 * **ToggleVIP** – Toggle VIP(/CEO/MC) mode
 * **ToggleCPH** – Toggle CPH (Cayo Perico Heist Final) mode
